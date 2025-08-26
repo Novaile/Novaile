@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Pacman](./pacman.svg)
+![Pacman](https://raw.githubusercontent.com/Novailе/Novailе/main/pacman.svg)
