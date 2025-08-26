@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Novaile](img/github-header-banner%20(1).png)
+
+<!-- ![Pacman](https://raw.githubusercontent.com/Novailе/Novailе/main/pacman.svg) -->
 
 #### 💫 Skills
 
@@ -28,12 +29,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
 
 #### 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/novailee/) [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Novaile_) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/C3adYPFw)
+![https://www.facebook.com/novailee/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://myanimelist.net/profile/Novaile_](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white) ![https://discord.gg/C3adYPFw)](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-
-<img src="https://raw.githubusercontent.com/Novaile/Novaile/output/snake.svg" alt="Snake animation" />
-
-###
+![Novaile](img/github-header-banner%20(1).png)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Novaile/Novaile/output/pacman-contribution-graph-dark.svg">
@@ -41,4 +39,4 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Novaile/Novaile/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<img src="https://raw.githubusercontent.com/Novaile/Novaile/output/snake.svg" alt="Snake animation" />
