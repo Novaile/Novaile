@@ -2,7 +2,7 @@ name: Pacman Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # tiap 6 jam auto jalan
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,16 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
+
       - name: Run Pacman Generator
         run: python pacman.py
+
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add .
-          git commit -m "update pacman"
+          git add pacman.svg
+          git commit -m "update pacman" || echo "no changes"
           git push
