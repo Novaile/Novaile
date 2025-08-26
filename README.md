@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Novaile](img/github-header-banner%20(1).png)
+<!-- ![Pacman](https://raw.githubusercontent.com/Novailе/Novailе/main/pacman.svg) -->
 
 #### 💫 Skills
 
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 #### 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/novailee/) [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Novaile_) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/C3adYPFw)
 
+![Novaile](img/github-header-banner%20(1).png)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Novaile/Novaile/output/pacman-contribution-graph-dark.svg">
