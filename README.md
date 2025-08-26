@@ -32,3 +32,9 @@ Here are some ideas to get you started:
 ![https://www.facebook.com/novailee/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://myanimelist.net/profile/Novaile_](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white) ![https://discord.gg/C3adYPFw)](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ![Novaile](img/github-header-banner%20(1).png)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Novaile/Novaile/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Novaile/Novaile/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Novaile/Novaile/output/pacman-contribution-graph.svg">
+</picture>
