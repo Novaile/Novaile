@@ -38,3 +38,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Novaile/Novaile/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Novaile/Novaile/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="https://raw.githubusercontent.com/Novaile/Novaile/output/snake.svg" alt="Snake animation" />
