@@ -1,8 +1,8 @@
 name: Generate pacman animation
 
 on:
-  schedule:
-    - cron: "*/10 * * * *" # jalan tiap 10 menit
+  schedule: 
+    - cron: "*/10 * * * *"
   workflow_dispatch:
   push:
     branches:
@@ -23,12 +23,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: "github-dark"
-
-      - name: Prepare dist
-        run: |
-          mkdir -p dist
-          cp pacman-contribution-graph*.svg dist/ || echo "No pacman SVG found!"
 
       - name: Push pacman-contribution-graph.svg to the pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
