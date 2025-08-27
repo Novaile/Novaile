@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Pacman](https://raw.githubusercontent.com/Novailе/Novailе/main/pacman.svg) -->
+![Pacman](https://raw.githubusercontent.com/Novailе/Novailе/main/pacman.svg)
+![Novaile](img/github-header-banner%20(1).png)
 
 #### 💫 Skills
 
@@ -39,6 +40,5 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Novaile/Novaile/output/pacman-contribution-graph.svg">
 </picture>
 
-![Novaile](img/github-header-banner%20(1).png)
 
 <img src="https://raw.githubusercontent.com/Novaile/Novaile/output/snake.svg" alt="Snake animation" />
